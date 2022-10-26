@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyDTCReader</string>
+    <string name="btn1">INTERPRET DTC</string>
+</resources>
